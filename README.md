@@ -1,1 +1,1 @@
-# Airline_Management_System-Java
+# Airplane Ticket Reservation System - JAVA
